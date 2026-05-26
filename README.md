@@ -65,7 +65,7 @@ pnpm -w lint:server
 
 ## 如何修改主题模式（跟随系统、固定暗色、固定亮色）
 
-默认为跟随系统，如果用户明确指定为“暗色”或“亮色”，需要修改 `client/components/ColorSchemeUpdater.tsx` 的 `DEFAULT_THEME` 变量为合适的值
+默认为跟随系统，如果用户明确指定为"暗色"或"亮色"，需要修改 `client/components/ColorSchemeUpdater.tsx` 的 `DEFAULT_THEME` 变量为合适的值
 
 ## 如何定制主题 design tokens
 
